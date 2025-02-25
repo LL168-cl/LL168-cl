@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LL168-cl
-- 🌱 I’m currently learning how to us GitHub...
+- 🌱 I’m currently learning how to use GitHub...
 
 
 <!---
